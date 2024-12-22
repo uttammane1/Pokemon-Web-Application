@@ -22,6 +22,16 @@ A designed Pokémon Card Grid application inspired by an antique aesthetic. Disc
 
 ---
 
+## Images
+
+![Macbook-Air-pokemon-web-application vercel app](https://github.com/user-attachments/assets/888b7f46-8b72-470c-864e-de1270188ff6)
+
+---
+
+![iPhone-13-PRO-pokemon-web-application vercel app](https://github.com/user-attachments/assets/c7ed01ae-26b6-47f5-9423-279a9f541799)
+
+---
+
 ## Tailwind CSS Integration 🎨  
 
 Tailwind CSS is used for styling to provide a modern, utility-first approach.  
@@ -53,7 +63,7 @@ module.exports = {
 
 
 
-## Images
+
 
 
 
